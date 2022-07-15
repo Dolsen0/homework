@@ -43,4 +43,3 @@ function firstElement(arr){
 }
 
 console.log(firstElement(arr))
-
